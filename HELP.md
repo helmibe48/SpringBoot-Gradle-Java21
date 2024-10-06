@@ -1,6 +1,7 @@
 # Getting Started
 # TEST
 # Lagi di prabu gaes, gak sempet buat code, malah ngurus koi dan servis motor juga testing raket baru
+# besok 7 okt 24, baru bisa code lagi, dan alhamdullilah masih dikasih rekezi yang banyak oleh Allah swt
 ### Reference Documentation
 For further reference, please consider the following sections:
 

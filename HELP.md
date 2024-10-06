@@ -1,5 +1,6 @@
 # Getting Started
 # TEST
+# Lagi di prabu gaes, gak sempet buat code, malah ngurus koi dan servis motor juga testing raket baru
 ### Reference Documentation
 For further reference, please consider the following sections:
 
